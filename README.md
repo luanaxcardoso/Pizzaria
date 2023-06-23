@@ -1,8 +1,9 @@
 <div align="center">
-<h2>🍕Pizzaria🍕</h2>
-<h2>MENU:</h2>
+<h2>🍕PIZZARIA🍕</h2>
+<h2>MENU:</h2>  
+<h3>1-Iniciar Vendas<h3>
+  
 <h3>
-1-Iniciar Vendas
   
 2-Cadastrar Usuário
 
